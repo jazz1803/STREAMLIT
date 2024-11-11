@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-# Cargar datos desde el archivo Excel
+# Cargar datos desde el archivo Excelllll
 df = pd.read_excel("vendedores.xlsx")
 
 # Crear una nueva columna combinando "NOMBRE" y "APELLIDO"
